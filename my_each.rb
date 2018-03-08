@@ -5,5 +5,7 @@ def my_each(collection)
     idx += 1
   end
 
-  my_each(collection) {|el| puts el}
+  my_each(collection) do |el| 
+    puts el
+  end
 end
