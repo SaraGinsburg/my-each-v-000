@@ -8,6 +8,3 @@ def my_each(collection)
 
 end
 
-# my_each(collection) do |el|
-#   puts el
-# end
