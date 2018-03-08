@@ -5,5 +5,5 @@ def my_each(collection)
     idx += 1
   end
 
-
+  collection
 end
